@@ -30,6 +30,7 @@ This  file for execution the program ,by using  python built-in  **Open()**  fun
 Run through (**Command.txt**) file **-**
 
 **OUTPUT**
+![](C:\Users\ACER\Pictures\Screenshots\Screenshot (3).png)
 
 
 
